@@ -1,6 +1,6 @@
 #IssueTracker
 A full stack app, which helps to track issues/bugs for the Project.
-Hoisted Link :https://adityakumargarg-github-io-project.onrender.com
+Hoisted Link : https://issue-tracker-6d70.onrender.com
 
 
 ### Description
